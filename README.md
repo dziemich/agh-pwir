@@ -1,0 +1,1 @@
+Parallelism Programming with Ada. Univerisity Course at AGH University Of Science and Technology
